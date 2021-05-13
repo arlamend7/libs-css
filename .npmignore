@@ -1,3 +1,7 @@
 /node_modules/
 /sass/
 gulpfile.js
+bitbucket-pipelines.yml
+.gitignore
+package-lock.json
+package.json
