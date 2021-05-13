@@ -3,5 +3,3 @@
 gulpfile.js
 bitbucket-pipelines.yml
 .gitignore
-package-lock.json
-package.json
