@@ -1,0 +1,18 @@
+.cursor-pointer {
+  cursor: pointer;
+}
+.pushable {
+  box-shadow: 3px 3px #5a7e7b !important;
+  transition: 0.5s all;
+}
+.pushable:active {
+  box-shadow: 1px 1px rgb(165, 165, 165);
+  transform: translateX(2px) translateY(2px);
+}
+.pushable:active:hover {
+  box-shadow: 1px 1px rgb(165, 165, 165);
+  transform: translateX(2px) translateY(2px);
+}
+.cursor-invalid {
+  cursor: no-drop !important;
+}

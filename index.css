@@ -1,0 +1,10 @@
+@import url("./custom/index.css");
+@import url("./css/index.css");
+/* @import "./css/index.css" screen and (max-width: 768px);
+@import "./css/index.css" print; */
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
